@@ -4,11 +4,12 @@
 
 ## Sobre mi 😃 : 
 
-- 🏢 Actualmente estoy estudiando en Desarrollo Web como Front-End y un poco de Back-End
-- 🎓 Actualmente estoy en la carrera de Licenciatura en Desarrollo de Software
+- 🏢 Actualmente trabajo de Freelancer como desarrollador FullStack
+- 🎓 Graduado de la carrera de Licenciatura en Desarrollo de Software
 - 🎓 Estudios en Lic. Desarrollo de Software en [Universidad Tecnológica de Panamá](https://utp.ac.pa/)
 - 🏡 Vivo en Panamá, Ciudad de Panamá
 - ⚡ Hobbies: Programar... Aprender... Viajar... Animes... Videojuegos... Leer...
+- 🎓 Actualmente estudiando un curso de Ingles en Wall Street English
 
 <br>
 
